@@ -1,0 +1,7 @@
+<h2 class="sidebar-title" style="margin-bottom:10px">Featured</h2>
+<div class="sidebar-filterproducts custom-block">
+
+</div>
+<h2 style="font-weight:600;font-size:16px;color:#000;line-height:1;">Custom HTML Block</h2>
+<h5 style="font-family:Arial;font-weight:400;font-size:11px;color:#878787;line-height:1;margin-bottom:13px;">This is a custom sub-title.</h5>
+<p style="font-weight:400;font-size:14px;color:#666;line-height:1.42;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus </p>

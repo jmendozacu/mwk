@@ -1,0 +1,57 @@
+<style><!--
+.home-equal-size-block > img{
+display:inline-block;
+margin:10px 20px 10px 0;
+}
+--></style>
+<div class="full-screen-slider">
+<div id="banner-slider-demo-1" class="owl-carousel owl-theme owl-middle-narrow owl-banner-carousel">
+<div class="item" style="background: #f0f0f0; background-image: linear-gradient(#e8e8e8,#f0f0f0); position: relative;">
+<div style="width: 100%; height: 100%; background: url('http://127.0.0.1/mwk/magento/media/wysiwyg/porto/homepage/slider/01/slide1.jpg') 80% center no-repeat; background-size: cover;">&nbsp;</div>
+<div class="slide1-content" style="width: 100%; height: 100%; position: absolute; left: 0; top: 0;">
+<div class="container" style="height: 100%; position: relative;">
+<div class="content-area" style="position: absolute; top: 37%; left: 7%; text-align: center;">
+<div style="margin: 0; line-height: 1;"><img class="quote" style="display: inline-block; vertical-align: middle;" alt="" src="http://127.0.0.1/mwk/magento/media/wysiwyg/porto/homepage/slider/01/quote.png" /> <em style="display: inline-block; vertical-align: middle; line-height: 1; color: #fff; font-weight: 300; font-style: normal;">DO YOU NEED A NEW</em> <img class="quote" style="display: inline-block; vertical-align: middle;" alt="" src="http://127.0.0.1/mwk/magento/media/wysiwyg/porto/homepage/slider/01/quote.png" /></div>
+<h2 style="font-weight: 800; color: #fff; line-height: 1;">eCOMMERCE?</h2>
+<p style="font-weight: 300; color: #fff; line-height: 1;">Check our options and features.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="item" style="background: #f0f0f0; background-image: linear-gradient(#e8e8e8,#f0f0f0); position: relative;">
+<div style="width: 100%; height: 100%; background: url('http://127.0.0.1/mwk/magento/media/wysiwyg/porto/homepage/slider/01/slide2.jpg') 20% center no-repeat; background-size: cover;">&nbsp;</div>
+<div class="slide2-content" style="width: 100%; height: 100%; position: absolute; left: 0; top: 0;">
+<div class="container" style="height: 100%; position: relative;">
+<div class="content-area" style="position: absolute; top: 40%; right: 20%; text-align: left;"><em style="display: block; line-height: 1; color: #fff; font-weight: 300; font-style: normal;">up to <b>70%</b> off!</em>
+<h2 style="font-weight: 600; color: #fff; line-height: 1;">HUGE <b style="font-weight: 800;">SALE</b></h2>
+<p style="font-weight: 600; color: #fff; line-height: 1;">Fashion<span class="split">-</span>Electronics<span class="split">-</span>Gifts<span class="split">-</span>Music<span class="split">-</span>Sports</p>
+<div style="text-align: right;"><a class="btn btn-default" style="border: 0; background-color: #fefefe; color: #777; font-weight: 600;" href="#">SHOP NOW</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="item" style="background: #f0f0f0; background-image: linear-gradient(#e8e8e8,#f0f0f0); position: relative;">
+<div style="width: 100%; height: 100%; background: url('http://127.0.0.1/mwk/magento/media/wysiwyg/porto/homepage/slider/01/slide3.jpg') center center no-repeat; background-size: cover;">&nbsp;</div>
+<div class="slide3-content" style="width: 100%; height: 100%; position: absolute; left: 0; top: 0;">
+<div class="container" style="height: 100%; position: relative;">
+<div class="content-area" style="position: absolute; left: 0; top: 40%; text-align: center; width: 100%;">
+<div style="display: inline-block;"><em style="display: block; line-height: 1; margin: 0; color: #fff; font-weight: 300; font-style: normal; text-align: right;">It&rsquo;s time to feel</em>
+<h2 style="font-weight: 600; color: #fff; line-height: 1; text-align: center;">THE <b style="font-weight: 800;">POWER</b></h2>
+<div style="text-align: right;"><a class="btn btn-default" style="border: 0; background-color: #fefefe; color: #777; font-weight: 600;" href="#">SHOP NOW</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+jQuery(function($){
+            $("#banner-slider-demo-1").owlCarousel({autoPlay:true,stopOnHover: true,pagination: false, autoPlay: true,navigation: true,navigationText:["<i class='icon-chevron-left'></i>","<i class='icon-chevron-right'></i>"],slideSpeed : 500,paginationSpeed : 500,singleItem:true,transitionStyle : "fade"});
+            $(".main-container").remove();
+        });
+// ]]></script>
+</div>
+<div>
+<div class="home-equal-size-block"><img alt="" src="wysiwyg/porto/homepage/content/01/placeholder.jpg" /> <img alt="" src="wysiwyg/porto/homepage/content/01/placeholder.jpg" /> <img alt="" src="wysiwyg/porto/homepage/content/01/placeholder.jpg" /> <img alt="" src="wysiwyg/porto/homepage/content/01/placeholder.jpg" /> <img alt="" src="wysiwyg/porto/homepage/content/01/placeholder.jpg" /> <img alt="" src="wysiwyg/porto/homepage/content/01/placeholder.jpg" /><img alt="" src="wysiwyg/porto/homepage/content/01/placeholder.jpg" /><img alt="" src="wysiwyg/porto/homepage/content/01/placeholder.jpg" /></div>
+</div>
+<p><br /><br /><br /></p>
